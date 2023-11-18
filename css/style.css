@@ -624,7 +624,7 @@ p {
   color: #CC8C18;
   text-align: left;
   font-weight: 400;
-  list-style: 5px;
+  list-style: none;
   word-spacing: 10px;
 }
 
